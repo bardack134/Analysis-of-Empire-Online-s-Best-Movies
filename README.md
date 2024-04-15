@@ -10,7 +10,6 @@ This project analyzes the content of the Empire Online webpage to extract a list
 3. [Results and Achievements](#results-and-achievements)
 
 ### Tools Used
-- Python: Utilized as the primary programming language for project development.
 - Requests: Utilized to make HTTP requests and obtain the HTML content of the Empire Online webpage.
 - BeautifulSoup: Utilized to parse the HTML obtained from the webpage and extract the movie titles.
 
