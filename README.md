@@ -12,6 +12,7 @@ This project analyzes the content of the Empire Online webpage to extract a list
 ### Tools Used
 - Requests: Utilized to make HTTP requests and obtain the HTML content of the Empire Online webpage.
 - BeautifulSoup: Utilized to parse the HTML obtained from the webpage and extract the movie titles.
+: “This is the link to the version of the website we used for web scraping: ‘https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/’”
 
 ### Results and Achievements
 As a Python programmer, this project provided valuable gains and achievements:
