@@ -23,3 +23,10 @@ As a Python programmer, this project provided valuable gains and achievements:
 - Enhanced ability to extract valuable insights and information from web sources.
 - Strengthened proficiency in utilizing external libraries and tools to streamline development processes.
 - Expanded knowledge of data extraction methodologies and their implementation in real-world scenarios.
+  
+![img1](https://github.com/bardack134/Analysis-of-Empire-Online-s-Best-Movies/assets/142977989/1a8828a8-4362-432a-bb0b-f9f53b127d9b)
+
+
+![img 2](https://github.com/bardack134/Analysis-of-Empire-Online-s-Best-Movies/assets/142977989/5fe283a3-3c1a-4d42-bc5f-08089bca7fd1)
+
+![img3](https://github.com/bardack134/Analysis-of-Empire-Online-s-Best-Movies/assets/142977989/058d2643-0c1f-43d2-9f2e-8cb84d2a3563)
